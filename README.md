@@ -28,6 +28,9 @@ SO THAT my company can compete with other e-commerce companies
 -   Sequilize
 -   My SQL
 
+## Seed Video/Gif
+![](img/seedvideo.gif)
+
 ## Get all: Categories, Products, Tags
 
 ![](img/get.gif)
